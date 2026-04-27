@@ -1,5 +1,5 @@
 [submodule "vendor/test"]
-	path = vendor/test
+	path = vendor/zudio
 	url = https://github.com/rameshlinuxadmin/zudio
 [submodule "vendor/webform"]
 	path = vendor/webform

@@ -1,4 +1,4 @@
-[submodule "vendor/test"]
+[submodule "vendor/zudio"]
 	path = vendor/zudio
 	url = https://github.com/rameshlinuxadmin/zudio
 [submodule "vendor/webform"]

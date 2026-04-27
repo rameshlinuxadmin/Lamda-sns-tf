@@ -1,0 +1,4 @@
+[submodule "vendor/onestrata"]
+	path = vendor/onestrata
+	url = https://github.com/rameshlinuxadmin/zudio
+	branch = main
